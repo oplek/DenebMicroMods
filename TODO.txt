@@ -1,0 +1,78 @@
+Things we may want to add, or wish were in the game:
+
+— Clay Stairs
+Stair versions of stained/hardened clay
+what about slabs?
+
+— Glass Ceilings
+Possibly glass panes that lay flat (up and down) or curve up and down to match vertical ones
+
+
+— Lapis Lanterns
+1 block redstone surrounded by 8 lapis
+lamp block lights 50-75 blocks
+
+— Stained Stone
+either through re-baking solid stone or staining with oil (?) one can make a darker grey of solid stone
+from that all other standard derivative block types (including etched blocks)
+
+— Etched Stone
+Simple recipe for creative the concentric circle (etched) stone blocks (in as many colors as there is stone… maybe even adding quartz?)
+
+— Stone Fence
+Perhaps solid and etched stone fencing similar to cobble
+
+— Seed Oil
+The ‘crushing’ or ‘pressing’ of seeds can produce oil
+The most obvious recipe might involve an anvil where you put a stack of seeds and perhaps a single stone (or something heavy) and you get perhaps 1 unit of oil per 4 units of seed
+Oil can be a new fuel source (like magma, coal)
+Oil could maybe be used in new food recipes?
+Oil might be an lubricant ingredient in future mechanism recipes?
+Oil could be used as a stain maybe on glass or stone or wood to give a darker or maybe slightly richer/warmer color?
+
+
+— Horizontal/Support Beams
+similar to how fences can turn into small poles vertically
+
+— Pipes
+Imagine laying logs, but they're hollow
+Will this allow the movement of water or magma to create a new ‘source block’ at the end where there’s a source block at the beginning?
+pumping oil as a fuel?
+
+— Iron Stairs and Slabs
+consider slabs and stairs made from iron blocks?
+
+— Steel
+produced by adding more carbon to iron… so take a stack of iron ingots and stack of coal and re-bake them… perhaps 2 or 4 coal per ingot of iron (to ensure that it is an expensive choice to make, but can be as common as iron is)
+new tools (somewhere between iron and diamond in durability and effectiveness)
+new armor (ditto)
+new blocks (including stairs and slabs?)
+
+— Hardened Leather
+Use oil on leather and bake for hardened leather
+About the same damage resistance as normal leather (maybe 1.2x?) but lasts longer than iron (but not as much as diamond)
+Maybe a darker hue overall, but still dyable?
+
+
+— Obsidian swords and arrows
+
+obsidian block broken up into 9 shards
+shards can be made into sword blade (for more damage than iron but gold-duration)
+shard can be tipped in arrow recipe… arrow does twice the damage as flip tipped
+
+
+— Iron tipped arrows?
+
+while expensive and normal damage, an iron tipped arrow (a whole ingot) will end up in the inventory of the creature just before it does so that it falls to the ground and can be reclaimed (or maybe with a 20% break rate so that they are MOSTLY retrieve with small attrition rates.)
+
+— Lairs
+
+A very large project that I don’t anticipate doing anytime soon, BUT
+anywhere from one special block to fortress sized locations that serve as spawners for all the new mobs and creatures that may be added through Zhark’s mo’creatures… 
+Spawning of most creatures is turned off for all biomes except maybe special cases
+Spawning of LAIRS is turned on according to biome restrictions
+spawners may only spawn at certain times of day
+spawners may spawn at different rates
+spawners can be destroyed ‘to pacify an area for colonization’ if the creatures it produce are undesirable
+spawners may have a VERY SLOW spawn rate (of new spawners, I mean) so that, after a person has a built an area up, ‘new invasions’ of creatures may occur that can occupy their attention and be either allowed to proliferate or re-suppressed as desired
+could be anything from a rock to a fallen log to a puddle (for plains-wandering creatures) for small to medium sized animals.. to a rocky cave for stuff like bears… to ruins for undead and maybe castles for bandits or magical creatures, etc… 
