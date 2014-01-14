@@ -4,6 +4,7 @@ Things we may want to add, or wish were in the game:
 Stair versions of stained/hardened clay
 what about slabs?
 
+
 — Glass Ceilings
 Possibly glass panes that lay flat (up and down) or curve up and down to match vertical ones
 
@@ -12,15 +13,10 @@ Possibly glass panes that lay flat (up and down) or curve up and down to match v
 1 block redstone surrounded by 8 lapis
 lamp block lights 50-75 blocks
 
-— Stained Stone
-either through re-baking solid stone or staining with oil (?) one can make a darker grey of solid stone
-from that all other standard derivative block types (including etched blocks)
-
-— Etched Stone
-Simple recipe for creative the concentric circle (etched) stone blocks (in as many colors as there is stone… maybe even adding quartz?)
 
 — Stone Fence
 Perhaps solid and etched stone fencing similar to cobble
+
 
 — Seed Oil
 The ‘crushing’ or ‘pressing’ of seeds can produce oil
@@ -34,13 +30,16 @@ Oil could be used as a stain maybe on glass or stone or wood to give a darker or
 — Horizontal/Support Beams
 similar to how fences can turn into small poles vertically
 
+
 — Pipes
 Imagine laying logs, but they're hollow
 Will this allow the movement of water or magma to create a new ‘source block’ at the end where there’s a source block at the beginning?
 pumping oil as a fuel?
 
+
 — Iron Stairs and Slabs
 consider slabs and stairs made from iron blocks?
+
 
 — Steel
 produced by adding more carbon to iron… so take a stack of iron ingots and stack of coal and re-bake them… perhaps 2 or 4 coal per ingot of iron (to ensure that it is an expensive choice to make, but can be as common as iron is)
@@ -48,25 +47,25 @@ new tools (somewhere between iron and diamond in durability and effectiveness)
 new armor (ditto)
 new blocks (including stairs and slabs?)
 
+
 — Hardened Leather
 Use oil on leather and bake for hardened leather
 About the same damage resistance as normal leather (maybe 1.2x?) but lasts longer than iron (but not as much as diamond)
 Maybe a darker hue overall, but still dyable?
+consider also being able to make this from zombie flesh (or, perhaps, baking zombie flesh can make leather first
 
 
 — Obsidian swords and arrows
-
 obsidian block broken up into 9 shards
 shards can be made into sword blade (for more damage than iron but gold-duration)
 shard can be tipped in arrow recipe… arrow does twice the damage as flip tipped
 
 
 — Iron tipped arrows?
-
 while expensive and normal damage, an iron tipped arrow (a whole ingot) will end up in the inventory of the creature just before it does so that it falls to the ground and can be reclaimed (or maybe with a 20% break rate so that they are MOSTLY retrieve with small attrition rates.)
 
-— Lairs
 
+— Lairs
 A very large project that I don’t anticipate doing anytime soon, BUT
 anywhere from one special block to fortress sized locations that serve as spawners for all the new mobs and creatures that may be added through Zhark’s mo’creatures… 
 Spawning of most creatures is turned off for all biomes except maybe special cases
