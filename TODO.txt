@@ -36,6 +36,8 @@ Imagine laying logs, but they're hollow
 Will this allow the movement of water or magma to create a new ‘source block’ at the end where there’s a source block at the beginning?
 pumping oil as a fuel?
 
+- Iron Chests
+Blast-resistant chests
 
 — Iron Stairs and Slabs
 consider slabs and stairs made from iron blocks?
@@ -75,3 +77,6 @@ spawners may spawn at different rates
 spawners can be destroyed ‘to pacify an area for colonization’ if the creatures it produce are undesirable
 spawners may have a VERY SLOW spawn rate (of new spawners, I mean) so that, after a person has a built an area up, ‘new invasions’ of creatures may occur that can occupy their attention and be either allowed to proliferate or re-suppressed as desired
 could be anything from a rock to a fallen log to a puddle (for plains-wandering creatures) for small to medium sized animals.. to a rocky cave for stuff like bears… to ruins for undead and maybe castles for bandits or magical creatures, etc… 
+
+
+
