@@ -4,10 +4,24 @@ Things we may want to add, or wish were in the game:
 Stair versions of stained/hardened clay
 what about slabs?
 
+- Furniture
+ * Chairs
+ * Couch similar to bed with back
+ * Tables with legs, but can place items on them
+   * Maybe 2 parts - a peg (like a single fence post, but 1 block high), and table top
+   * Different textures
+ * Small fire - like normal fire, but doesn't spread
+ * Wardrobe (2 block high chest, basically)
+ * 
+ 
+- Fences, pressure plates, doors, etc - different wood/stone colors 
+ 
+- Smoke - can be placed for effect like fire, but just smoke, and rises up a ways 
 
 — Glass Ceilings
 Possibly glass panes that lay flat (up and down) or curve up and down to match vertical ones
 
+- Rope?
 
 — Lapis Lanterns
 1 block redstone surrounded by 8 lapis
