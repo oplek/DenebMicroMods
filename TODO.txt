@@ -12,11 +12,14 @@ what about slabs?
    * Different textures
  * Small fire - like normal fire, but doesn't spread
  * Wardrobe (2 block high chest, basically)
- * 
+ * Window curtains (can be placed like glass panels)
  
 - Fences, pressure plates, doors, etc - different wood/stone colors 
  
 - Smoke - can be placed for effect like fire, but just smoke, and rises up a ways 
+
+- Decal Decoration - transparent "stickers" for texturing that can be placed on blocks.
+Example: place a "hole" texture (black circle, basically) on a side of a block to make it appear to be hollow pipe... or a "bookshelf" decal that can be placed on a wall to make that block, or the semi-broken states of breaking blocks.
 
 — Glass Ceilings
 Possibly glass panes that lay flat (up and down) or curve up and down to match vertical ones
