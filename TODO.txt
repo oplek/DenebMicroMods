@@ -99,7 +99,34 @@ spawners can be destroyed ‘to pacify an area for colonization’ if the creatu
 spawners may have a VERY SLOW spawn rate (of new spawners, I mean) so that, after a person has a built an area up, ‘new invasions’ of creatures may occur that can occupy their attention and be either allowed to proliferate or re-suppressed as desired
 could be anything from a rock to a fallen log to a puddle (for plains-wandering creatures) for small to medium sized animals.. to a rocky cave for stuff like bears… to ruins for undead and maybe castles for bandits or magical creatures, etc… 
 
+
 -- Glass shards
 How about a micro mod that makes glass shards whenever a pane or block of glass is broken ... akin to glowstone... and the shards could be re-melted back into a lesser quantity of new glass (i.e., some loss, but not COMPLETE loss)
 
+
+-- Soulbound Enchant
+Can apply to any weapon, tool, or armor... 
+Obeys whatever enchant randomness is around in current version...
+Allows the item to stay in the person's inventory upon respawn
+Perhaps each respawn causes an acceleration of item degredation (perhaps small but 10x the normal swing damage?)
+
+
+-- Soulstone Shard
+Very expensive... perhaps 4x diamond blocks and 5x emerald blocks... 
+Makes a glittery glowy gemstone which will absorb any exp you have when you 'USE' it
+Perhaps up to 25 levels worth
+
+
+-- Soulstone Block
+Use one soulstone shard surrounded by other materials to make a placeable building block
+Each block can store and release levels on interaction
+Frame of the block depends on how effective:
+
+(4x, one per corner)
+
+... wood: 25 levels (basically just holding up the shard) 
+... iron: 35 levels
+... gold: 50 levels
+... redstone block: 75 levels
+... diamond blocks: 100 levels
 
