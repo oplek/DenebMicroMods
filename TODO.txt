@@ -99,5 +99,7 @@ spawners can be destroyed ‘to pacify an area for colonization’ if the creatu
 spawners may have a VERY SLOW spawn rate (of new spawners, I mean) so that, after a person has a built an area up, ‘new invasions’ of creatures may occur that can occupy their attention and be either allowed to proliferate or re-suppressed as desired
 could be anything from a rock to a fallen log to a puddle (for plains-wandering creatures) for small to medium sized animals.. to a rocky cave for stuff like bears… to ruins for undead and maybe castles for bandits or magical creatures, etc… 
 
+-- Glass shards
+How about a micro mod that makes glass shards whenever a pane or block of glass is broken ... akin to glowstone... and the shards could be re-melted back into a lesser quantity of new glass (i.e., some loss, but not COMPLETE loss)
 
 
