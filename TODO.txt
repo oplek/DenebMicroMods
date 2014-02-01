@@ -87,6 +87,8 @@ shard can be tipped in arrow recipe… arrow does twice the damage as flip tippe
 — Iron tipped arrows?
 while expensive and normal damage, an iron tipped arrow (a whole ingot) will end up in the inventory of the creature just before it does so that it falls to the ground and can be reclaimed (or maybe with a 20% break rate so that they are MOSTLY retrieve with small attrition rates.)
 
+-Miner's Helmet?
+Leather helmet + torch; Provides armor level of leather, but a portable light source as you go.
 
 — Lairs
 A very large project that I don’t anticipate doing anytime soon, BUT
@@ -116,6 +118,8 @@ Very expensive... perhaps 4x diamond blocks and 5x emerald blocks...
 Makes a glittery glowy gemstone which will absorb any exp you have when you 'USE' it
 Perhaps up to 25 levels worth
 
+-- Minor Soulstone Shard
+Cheaper than the Soulstone Shard to construct (Say, 3 diamonds and 3 emeralds), will absorb at 1/4 rate; E.g. 24 levels are converted into 6 levels stored.
 
 -- Soulstone Block
 Use one soulstone shard surrounded by other materials to make a placeable building block
@@ -129,4 +133,13 @@ Frame of the block depends on how effective:
 ... gold: 50 levels
 ... redstone block: 75 levels
 ... diamond blocks: 100 levels
+
+
+-- Carrier Chickens
+Capture a chicken, maybe by grabbing it - it turns into an item in one's inventory. It can then be crafted with something like gunpowder and extra feathers to create a "carrier chicken". Using the carrier chicken, one can select someone who is online, and place a single item, and that item will be delivered to the person.
+
+-OR-
+
+-- Ender Post Dropboxes
+Similar to creating an ender chest, one can create a ender dropbox where one can select a player, and an item stack, and those items are placed in the person's ender chest.
 
