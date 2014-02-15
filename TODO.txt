@@ -143,3 +143,6 @@ Capture a chicken, maybe by grabbing it - it turns into an item in one's invento
 -- Ender Post Dropboxes
 Similar to creating an ender chest, one can create a ender dropbox where one can select a player, and an item stack, and those items are placed in the person's ender chest.
 
+-- Telescope: For looking into the distance (like putting on a pumpkin helmet - has hole in middle, and decreases FOV)
+
+-- Enhanced ambient sounds - detect biome, select a few persistent points and add in ambinet sounds for oceans, jungles, etc.
