@@ -30,11 +30,6 @@ Possibly glass panes that lay flat (up and down) or curve up and down to match v
 
 - Rope?
 
-— Lapis Lanterns
-1 block redstone surrounded by 8 lapis
-lamp block lights 50-75 blocks
-
-
 — Stone Fence
 Perhaps solid and etched stone fencing similar to cobble
 
@@ -146,3 +141,20 @@ Similar to creating an ender chest, one can create a ender dropbox where one can
 -- Telescope: For looking into the distance (like putting on a pumpkin helmet - has hole in middle, and decreases FOV)
 
 -- Enhanced ambient sounds - detect biome, select a few persistent points and add in ambinet sounds for oceans, jungles, etc.
+
+
+
+====================
+== Not Possible
+====================
+
+
+— Lapis Lanterns
+1 block redstone surrounded by 8 lapis
+lamp block lights 50-75 blocks
+
+
+
+
+
+
