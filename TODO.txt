@@ -97,26 +97,26 @@ spawners may have a VERY SLOW spawn rate (of new spawners, I mean) so that, afte
 could be anything from a rock to a fallen log to a puddle (for plains-wandering creatures) for small to medium sized animals.. to a rocky cave for stuff like bears… to ruins for undead and maybe castles for bandits or magical creatures, etc… 
 
 
--- Glass shards
+— Glass shards
 How about a micro mod that makes glass shards whenever a pane or block of glass is broken ... akin to glowstone... and the shards could be re-melted back into a lesser quantity of new glass (i.e., some loss, but not COMPLETE loss)
 
 
--- Soulbound Enchant
+— Soulbound Enchant
 Can apply to any weapon, tool, or armor... 
 Obeys whatever enchant randomness is around in current version...
 Allows the item to stay in the person's inventory upon respawn
 Perhaps each respawn causes an acceleration of item degredation (perhaps small but 10x the normal swing damage?)
 
 
--- Soulstone Shard
+— Soulstone Shard
 Very expensive... perhaps 4x diamond blocks and 5x emerald blocks... 
 Makes a glittery glowy gemstone which will absorb any exp you have when you 'USE' it
 Perhaps up to 25 levels worth
 
--- Minor Soulstone Shard
+— Minor Soulstone Shard
 Cheaper than the Soulstone Shard to construct (Say, 3 diamonds and 3 emeralds), will absorb at 1/4 rate; E.g. 24 levels are converted into 6 levels stored.
 
--- Soulstone Block
+— Soulstone Block
 Use one soulstone shard surrounded by other materials to make a placeable building block
 Each block can store and release levels on interaction
 Frame of the block depends on how effective:
@@ -130,18 +130,25 @@ Frame of the block depends on how effective:
 ... diamond blocks: 100 levels
 
 
--- Carrier Chickens
+— Carrier Chickens
 Capture a chicken, maybe by grabbing it - it turns into an item in one's inventory. It can then be crafted with something like gunpowder and extra feathers to create a "carrier chicken". Using the carrier chicken, one can select someone who is online, and place a single item, and that item will be delivered to the person.
 
 -OR-
 
--- Ender Post Dropboxes
+— Ender Post Dropboxes
 Similar to creating an ender chest, one can create a ender dropbox where one can select a player, and an item stack, and those items are placed in the person's ender chest.
 
--- Telescope: For looking into the distance (like putting on a pumpkin helmet - has hole in middle, and decreases FOV)
+— Telescope: For looking into the distance (like putting on a pumpkin helmet - has hole in middle, and decreases FOV)
 
--- Enhanced ambient sounds - detect biome, select a few persistent points and add in ambinet sounds for oceans, jungles, etc.
+— Enhanced ambient sounds - detect biome, select a few persistent points and add in ambinet sounds for oceans, jungles, etc.
 
+— Painted Blocks
+
+Similar to stained glass, etc, but thick pigments used as paint
+Internally, we'd just have to make some solid paint texture blocks as well as subtly but obvious stone, cobble 'painted' blocks
+Then, one could simply paint their building materials like one makes stained clay or glass
+OR using a paintball, one could re-paint an already existing and placed block... this would require swapping that block out.
+Prepainted blocks should be more efficiency (i.e, 1 unit can make 8 blocks) but using a paintball on already placed blocks would have four uses?
 
 
 ====================
