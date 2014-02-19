@@ -148,7 +148,7 @@ Similar to creating an ender chest, one can create a ender dropbox where one can
 == Not Possible
 ====================
 
-
+[The low-level functionality doesn't intelligibly use light values outside the range 0.0f - 1.0f. Glowstone is already at 1.0f. We'd have to do a low-level recoding of Minecraft to fix this.]
 — Lapis Lanterns
 1 block redstone surrounded by 8 lapis
 lamp block lights 50-75 blocks

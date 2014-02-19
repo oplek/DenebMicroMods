@@ -1,3 +1,7 @@
+/*
+ * NOT CURRENTLY UNDER DEVELOPMENT - DEEMED IMPOSSIBLE
+ */
+
 package micromod.lapizlamp;
 
 import net.minecraft.block.material.Material;
@@ -39,9 +43,8 @@ public class LapizLamp {
 	
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-    	lamp = new LapizLampBlock(null);
-    	Material m = Material.redstoneLight;
-    	//GameRegistry.
+    	lamp = new LapizLampBlock(Material.redstoneLight);
+ 		
     	
     	GameRegistry.registerBlock(lamp, "lapizLamp");
     	

@@ -10,13 +10,12 @@ public class LapizLampBlock extends BlockGlowstone {
 		super(p_i45409_1_);
 		// TODO Auto-generated constructor stub
 		
-		this.setLightLevel(1000f);
-		this.setBlockName("lapizLamp");
-		this.opaque=false;
-		this.setLightOpacity(-100);
-		this.getMaterial();
-		
-		
+		this.setHardness(0.3F);
+		this.setLightLevel(1.0F);
+		this.setBlockTextureName("glowstone");
+
 	}
+	
+	
 
 }
