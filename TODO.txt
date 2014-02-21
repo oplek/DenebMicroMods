@@ -1,0 +1,167 @@
+Things we may want to add, or wish were in the game:
+
+— Clay Stairs
+Stair versions of stained/hardened clay
+what about slabs?
+
+- Furniture
+ * Chairs
+ * Couch similar to bed with back
+ * Tables with legs, but can place items on them
+   * Maybe 2 parts - a peg (like a single fence post, but 1 block high), and table top
+   * Different textures
+ * Small fire - like normal fire, but doesn't spread
+ * Wardrobe (2 block high chest, basically)
+ * Window curtains (can be placed like glass panels)
+ 
+- Fences, pressure plates, doors, etc - different wood/stone colors 
+ 
+- Smoke - can be placed for effect like fire, but just smoke, and rises up a ways 
+
+- Decal Decoration
+Transparent "stickers" for texturing that can be placed on blocks.
+Example: place a "hole" texture (black circle, basically) on a side of a block to make it appear to be hollow pipe... or a "bookshelf" decal that can be placed on a wall to make that block, or the semi-broken states of breaking blocks.
+
+- Sound blocks
+Like how flowing water creates ongoing sounds, sound blocks could be placed to create ambient sound mixtures... creaking wood, wind, magma, etc.
+
+— Glass Ceilings
+Possibly glass panes that lay flat (up and down) or curve up and down to match vertical ones
+
+- Rope?
+
+— Stone Fence
+Perhaps solid and etched stone fencing similar to cobble
+
+
+— Seed Oil
+The ‘crushing’ or ‘pressing’ of seeds can produce oil
+The most obvious recipe might involve an anvil where you put a stack of seeds and perhaps a single stone (or something heavy) and you get perhaps 1 unit of oil per 4 units of seed
+Oil can be a new fuel source (like magma, coal)
+Oil could maybe be used in new food recipes?
+Oil might be an lubricant ingredient in future mechanism recipes?
+Oil could be used as a stain maybe on glass or stone or wood to give a darker or maybe slightly richer/warmer color?
+
+
+— Horizontal/Support Beams
+similar to how fences can turn into small poles vertically
+
+
+— Pipes
+Imagine laying logs, but they're hollow
+Will this allow the movement of water or magma to create a new ‘source block’ at the end where there’s a source block at the beginning?
+pumping oil as a fuel?
+
+- Iron Chests
+Blast-resistant chests
+
+— Iron Stairs and Slabs
+consider slabs and stairs made from iron blocks?
+
+
+— Steel
+produced by adding more carbon to iron… so take a stack of iron ingots and stack of coal and re-bake them… perhaps 2 or 4 coal per ingot of iron (to ensure that it is an expensive choice to make, but can be as common as iron is)
+new tools (somewhere between iron and diamond in durability and effectiveness)
+new armor (ditto)
+new blocks (including stairs and slabs?)
+
+
+— Hardened Leather
+Use oil on leather and bake for hardened leather
+About the same damage resistance as normal leather (maybe 1.2x?) but lasts longer than iron (but not as much as diamond)
+Maybe a darker hue overall, but still dyable?
+consider also being able to make this from zombie flesh (or, perhaps, baking zombie flesh can make leather first
+
+
+— Obsidian swords and arrows
+obsidian block broken up into 9 shards
+shards can be made into sword blade (for more damage than iron but gold-duration)
+shard can be tipped in arrow recipe… arrow does twice the damage as flip tipped
+
+
+— Iron tipped arrows?
+while expensive and normal damage, an iron tipped arrow (a whole ingot) will end up in the inventory of the creature just before it does so that it falls to the ground and can be reclaimed (or maybe with a 20% break rate so that they are MOSTLY retrieve with small attrition rates.)
+
+-Miner's Helmet?
+Leather helmet + torch; Provides armor level of leather, but a portable light source as you go.
+
+— Lairs
+A very large project that I don’t anticipate doing anytime soon, BUT
+anywhere from one special block to fortress sized locations that serve as spawners for all the new mobs and creatures that may be added through Zhark’s mo’creatures… 
+Spawning of most creatures is turned off for all biomes except maybe special cases
+Spawning of LAIRS is turned on according to biome restrictions
+spawners may only spawn at certain times of day
+spawners may spawn at different rates
+spawners can be destroyed ‘to pacify an area for colonization’ if the creatures it produce are undesirable
+spawners may have a VERY SLOW spawn rate (of new spawners, I mean) so that, after a person has a built an area up, ‘new invasions’ of creatures may occur that can occupy their attention and be either allowed to proliferate or re-suppressed as desired
+could be anything from a rock to a fallen log to a puddle (for plains-wandering creatures) for small to medium sized animals.. to a rocky cave for stuff like bears… to ruins for undead and maybe castles for bandits or magical creatures, etc… 
+
+
+— Glass shards
+How about a micro mod that makes glass shards whenever a pane or block of glass is broken ... akin to glowstone... and the shards could be re-melted back into a lesser quantity of new glass (i.e., some loss, but not COMPLETE loss)
+
+
+— Soulbound Enchant
+Can apply to any weapon, tool, or armor... 
+Obeys whatever enchant randomness is around in current version...
+Allows the item to stay in the person's inventory upon respawn
+Perhaps each respawn causes an acceleration of item degredation (perhaps small but 10x the normal swing damage?)
+
+
+— Soulstone Shard
+Very expensive... perhaps 4x diamond blocks and 5x emerald blocks... 
+Makes a glittery glowy gemstone which will absorb any exp you have when you 'USE' it
+Perhaps up to 25 levels worth
+
+— Minor Soulstone Shard
+Cheaper than the Soulstone Shard to construct (Say, 3 diamonds and 3 emeralds), will absorb at 1/4 rate; E.g. 24 levels are converted into 6 levels stored.
+
+— Soulstone Block
+Use one soulstone shard surrounded by other materials to make a placeable building block
+Each block can store and release levels on interaction
+Frame of the block depends on how effective:
+
+(4x, one per corner)
+
+... wood: 25 levels (basically just holding up the shard) 
+... iron: 35 levels
+... gold: 50 levels
+... redstone block: 75 levels
+... diamond blocks: 100 levels
+
+
+— Carrier Chickens
+Capture a chicken, maybe by grabbing it - it turns into an item in one's inventory. It can then be crafted with something like gunpowder and extra feathers to create a "carrier chicken". Using the carrier chicken, one can select someone who is online, and place a single item, and that item will be delivered to the person.
+
+-OR-
+
+— Ender Post Dropboxes
+Similar to creating an ender chest, one can create a ender dropbox where one can select a player, and an item stack, and those items are placed in the person's ender chest.
+
+— Telescope: For looking into the distance (like putting on a pumpkin helmet - has hole in middle, and decreases FOV)
+
+— Enhanced ambient sounds - detect biome, select a few persistent points and add in ambinet sounds for oceans, jungles, etc.
+
+— Painted Blocks
+
+Similar to stained glass, etc, but thick pigments used as paint
+Internally, we'd just have to make some solid paint texture blocks as well as subtly but obvious stone, cobble 'painted' blocks
+Then, one could simply paint their building materials like one makes stained clay or glass
+OR using a paintball, one could re-paint an already existing and placed block... this would require swapping that block out.
+Prepainted blocks should be more efficiency (i.e, 1 unit can make 8 blocks) but using a paintball on already placed blocks would have four uses?
+
+
+====================
+== Not Possible
+====================
+
+[The low-level functionality doesn't intelligibly use light values outside the range 0.0f - 1.0f. Glowstone is already at 1.0f. We'd have to do a low-level recoding of Minecraft to fix this.]
+— Lapis Lanterns
+1 block redstone surrounded by 8 lapis
+lamp block lights 50-75 blocks
+
+
+
+
+
+
