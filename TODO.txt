@@ -150,6 +150,7 @@ Then, one could simply paint their building materials like one makes stained cla
 OR using a paintball, one could re-paint an already existing and placed block... this would require swapping that block out.
 Prepainted blocks should be more efficiency (i.e, 1 unit can make 8 blocks) but using a paintball on already placed blocks would have four uses?
 
+- Extra containers - crates, barrels (of different wood colors), that can store things, but otherwise decoration.
 
 ====================
 == Not Possible
