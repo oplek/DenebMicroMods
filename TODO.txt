@@ -152,6 +152,10 @@ Prepainted blocks should be more efficiency (i.e, 1 unit can make 8 blocks) but 
 
 - Extra containers - crates, barrels (of different wood colors), that can store things, but otherwise decoration.
 
+- Cook eggs - hard boiled egg food item
+
+- Recipe: Break up sandstone back into sand
+
 ====================
 == Not Possible
 ====================
