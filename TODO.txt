@@ -154,7 +154,14 @@ Prepainted blocks should be more efficiency (i.e, 1 unit can make 8 blocks) but 
 
 - Cook eggs - hard boiled egg food item
 
-- Recipe: Break up sandstone back into sand
+
+
+====================
+== Completed
+====================
+
+[MiscRecipe] - Recipe: Break up sandstone back into sand
+
 
 ====================
 == Not Possible
