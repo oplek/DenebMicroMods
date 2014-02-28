@@ -161,6 +161,7 @@ Prepainted blocks should be more efficiency (i.e, 1 unit can make 8 blocks) but 
 ====================
 
 [MiscRecipe] - Recipe: Break up sandstone back into sand
+[MiscRecipe] - Smelt gold objects (armors/weapons) into 1 gold bar
 
 
 ====================
