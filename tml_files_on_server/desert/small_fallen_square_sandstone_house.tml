@@ -18,7 +18,7 @@ rule2=0,100,dirt
 rule3=0,100,sandstone-2
 rule4=0,100,stone_slab-1
 rule5=0,100,preserveBlock
-rule6=0,100,MobSpawner:Skeleton,MobSpawner:Zombie
+rule6=0,100,MobSpawner:Skeleton,MobSpawner:MoCreatures.SilverSkeleton,MobSpawner:MoCreatures.Wraith
 
 layer
 1,1,1,1,1,1,1,1

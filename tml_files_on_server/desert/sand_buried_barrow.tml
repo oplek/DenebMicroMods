@@ -16,8 +16,8 @@ random_height_offset=-1,5
 
 rule1=0,100,sand,sand,sand,sand,sand,sandstone
 rule2=0,100,sandstone
-rule3=0,100,MediumMobSpawn,MediumMobSpawn,HardMobSpawn,sandstone
-rule4=0,100,MediumChest,MediumChest,MediumChest,HardChest,sandstone
+rule3=0,100,MobSpawner:MoCreatures.SilverSkeleton,MobSpawner:MoCreatures.Wraith,MobSpawner:Skeleton,MobSpawner:Zombie
+rule4=0,100,ChestGenHook:pyramidDesertyChest:3,MediumChest,HardChest,ChestGenHook:dungeonChest:3,sandstone
 rule5=0,100,sandstone
 rule6=0,100,stone_slab
 rule7=0,100,log

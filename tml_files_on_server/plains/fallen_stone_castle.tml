@@ -35,7 +35,7 @@ rule18=0,100,stone_brick_stairs-2
 rule19=0,100,red_flower
 rule20=0,100,pumpkin-3
 rule21=0,100,stone_slab
-rule22=0,100,dungeonChest
+rule22=0,100,ChestGenHook:pyramidJungleChest:3
 rule23=0,100,fire-15
 rule24=0,100,torch-3
 rule25=0,100,torch-4
@@ -48,7 +48,7 @@ rule31=0,100,oak_stairs
 rule32=0,100,oak_stairs-1
 rule33=0,100,stone_slab-3
 rule0=0,100,preserveBlock
-rule35=0,100,preserveBlock,MobSpawner:Skeleton,MobSpawner:Zombie,MobSpawner:Creeper,MobSpawner:Spider,MobSpawner:CaveSpider,MobSpawner:Witch,MobSpawner:PigZombie
+rule35=0,100,preserveBlock,MobSpawner:Skeleton,MobSpawner:Zombie,MobSpawner:Creeper,MobSpawner:Spider,MobSpawner:CaveSpider,MobSpawner:Witch,MobSpawner:PigZombie,MobSpawner:Zombie,MobSpawner:Skeleton,MobSpawner:Spider,MobSpawner:Spider,MobSpawner:MoCreatures.Wraith,MobSpawner:MoCreatures.Werewolf:MobSpawner:MoCreatures.Ogre
 
 
 layer

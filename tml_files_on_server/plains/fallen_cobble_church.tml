@@ -22,8 +22,8 @@ rule6=0,50,stone_stairs-2
 rule7=0,60,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
 rule8=2,80,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
 rule9=1,80,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
-rule10=1,100,ChestGenHook:pyramidJungleChest:3,MediumChest,HardChest,ChestGenHook:dungeonChest:3,MobSpawner:Zombie,MobSpawner:Skeleton
-rule11=1,100,MobSpawner:Zombie,MobSpawner:Skeleton,MobSpawner:Spider,MobSpawner:Spider
+rule10=1,100,ChestGenHook:pyramidJungleChest:3,MediumChest,HardChest,ChestGenHook:dungeonChest:3
+rule11=1,100,MobSpawner:Zombie,MobSpawner:Skeleton,MobSpawner:Spider,MobSpawner:Spider,MobSpawner:MoCreatures.Wraith,MobSpawner:MoCreatures.Werewolf:MobSpawner:MoCreatures.Ogre
 
 layer
 1,2,2,2,1
