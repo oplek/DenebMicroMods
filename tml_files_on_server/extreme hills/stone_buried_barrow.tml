@@ -1,17 +1,17 @@
 biomesToSpawnIn=extreme hills,extreme hills+,stone beach
-weight=10
-embed_into_distance=5
+weight=20
+embed_into_distance=40
 acceptable_target_blocks=stone,gravel
 dimensions=7,42,19
 allowable_overhang=10
-max_leveling=0
-cut_in_buffer=0
-leveling_buffer=0
+max_leveling=1
+cut_in_buffer=1
+leveling_buffer=1
 preserve_water=0
 preserve_lava=0
 preserve_plants=1
-max_cut_in=1
-random_height_offset=-1,5
+max_cut_in=3
+random_height_offset=0,43
 
 rule1=0,100,stone,stone,stone,stone,cobblestone
 rule2=0,100,stone,cobblestone

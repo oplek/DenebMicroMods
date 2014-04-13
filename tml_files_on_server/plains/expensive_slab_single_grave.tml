@@ -1,5 +1,5 @@
-biomesToSpawnIn=swampland,swampland m,desert,desert m,deserthills,extreme hills,extreme hills edge, extreme hills+,jungle,junglehills,jungleedge,jungleedge m,mesa plateau,mesa plateau f,mesa plateau f m,mesa plateau m,mushroomislandshore,roofed forest,roofed forest m,stone beach
-weight=50
+biomesToSpawnIn=swampland,swampland m,extreme hills,extreme hills edge, extreme hills+,jungle,junglehills,jungleedge,jungleedge m,mesa plateau,mesa plateau f,mesa plateau f m,mesa plateau m,mushroomislandshore,roofed forest,roofed forest m,stone beach
+weight=5
 embed_into_distance=3
 acceptable_target_blocks=dirt,grass,gravel,sand
 dimensions=5,6,3
@@ -17,7 +17,7 @@ rule1=0,100,preserveBlock
 rule2=0,100,clay
 rule3=0,100,grass,grass,dirt
 rule4=0,100,stone
-rule5=0,100,MobSpawner:Skeleton,MobSpawner:Zombie,MobSpawner:MoCreatures.Wraith,MobSpawner:MoCreatures.FlameWraith
+rule5=0,100,MobSpawner:Skeleton,MobSpawner:Zombie
 rule6=0,100,gravel,MediumChest,MediumChest,ChestGenHook:pyramidJungleChest:2,HardChest
 rule7=1,100,stone_slab
 rule8=0,75,torch,torch,torch,torch,redstone_torch

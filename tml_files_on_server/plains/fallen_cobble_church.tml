@@ -1,5 +1,5 @@
 biomesToSpawnIn=birch forest,birch forest m,cold beach,cold taiga,cold taiga m,extreme hills,extreme hills+,flower forest,forest,frozeriver,ice plains,jungleedge,jungleedge m,mega spruce taiga,mega taiga,mesa plateau f,plains,river,roofed forest,savanna,savanna m,savanna plateau,savanna plateau m,stone beach,sunflower plains,swampland,swampland m,taiga,taiga m
-weight=10
+weight=6
 embed_into_distance=4
 acceptable_target_blocks=stone,grass,dirt,sand,gravel,sandstone
 dimensions=12,9,5
@@ -14,16 +14,16 @@ random_height_offset=-2,3
 
 
 rule1=0,100,preserveBlock
-rule2=0,100,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
+rule2=0,100,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1
 rule3=0,50,stone_stairs-1
 rule4=0,20,glass_pane
 rule5=0,50,stone_stairs-3
 rule6=0,50,stone_stairs-2
 rule7=0,60,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
-rule8=2,80,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
-rule9=1,80,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1,monster_egg-1
+rule8=2,80,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1
+rule9=1,80,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1
 rule10=1,100,ChestGenHook:pyramidJungleChest:3,MediumChest,HardChest,ChestGenHook:dungeonChest:3
-rule11=1,100,MobSpawner:Zombie,MobSpawner:Skeleton,MobSpawner:Spider,MobSpawner:Spider,MobSpawner:MoCreatures.Wraith,MobSpawner:MoCreatures.Werewolf:MobSpawner:MoCreatures.Ogre
+rule11=1,100,MobSpawner:Zombie,MobSpawner:Skeleton,MobSpawner:Spider,MobSpawner:Spider,MobSpawner:MoCreatures.Werewolf
 
 layer
 1,2,2,2,1

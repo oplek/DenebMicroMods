@@ -1,5 +1,5 @@
 biomesToSpawnIn=swampland,swampland m,desert,desert m,deserthills,extreme hills,extreme hills edge, extreme hills+,jungle,junglehills,jungleedge,jungleedge m,mesa plateau,mesa plateau f,mesa plateau f m,mesa plateau m,mushroomislandshore,roofed forest,roofed forest m,stone beach
-weight=20
+weight=5
 embed_into_distance=3
 acceptable_target_blocks=dirt,grass,gravel,sand
 dimensions=5,4,1

@@ -20,7 +20,7 @@ rule4=0,100,stone_slab-1
 rule5=0,100,sandstone-2
 rule6=0,100,ChestGenHook:pyramidDesertyChest:2,ChestGenHook:pyramidDesertyChest:3
 rule7=0,100,preserveBlock
-rule8=0,100,preserveBlock,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:WitherSkeleton,MobSpawner:MoCreatures.Wraith,MobSpawner:MoCreatures.SilverSkeleton
+rule8=0,100,preserveBlock,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:Skeleton,MobSpawner:MoCreatures.SilverSkeleton
 
 
 layer

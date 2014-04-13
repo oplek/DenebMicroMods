@@ -1,5 +1,5 @@
 biomesToSpawnIn=desert,deserthills,beach
-weight=10
+weight=5
 embed_into_distance=4
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
 dimensions=8,12,11

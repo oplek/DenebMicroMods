@@ -1,5 +1,5 @@
 biomesToSpawnIn=desert,deserthills,beach,ocean,river
-weight=1
+weight=10
 embed_into_distance=1
 acceptable_target_blocks=sand,gravel,clay
 dimensions=6,9,8
@@ -18,7 +18,7 @@ rule2=0,100,dirt
 rule3=0,100,sandstone-2
 rule4=0,100,stone_slab-1
 rule5=0,100,preserveBlock
-rule6=0,100,MobSpawner:Skeleton,MobSpawner:MoCreatures.SilverSkeleton,MobSpawner:MoCreatures.Wraith
+rule6=0,100,MobSpawner:Skeleton,MobSpawner:MoCreatures.SilverSkeleton
 
 layer
 1,1,1,1,1,1,1,1
@@ -27,8 +27,8 @@ layer
 1,1,1,1,1,1,2,1
 1,1,1,1,1,1,2,1
 2,1,1,1,1,1,2,1
-2,1,1,1,1,1,2,1
-1,2,2,2,2,2,6,1
+2,1,1,1,1,1,6,1
+1,2,2,2,2,2,1,1
 1,1,1,1,1,1,1,1
 endlayer
 
