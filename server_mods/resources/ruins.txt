@@ -1,0 +1,84 @@
+# Global Options for the Ruins mod
+#
+# tries_per_chunk is the number of times, per chunk, that the generator will
+#     attempt to create a ruin.
+#
+# chance_to_spawn is the chance, out of 100, that a ruin will be generated per
+#     try in this chunk.  This may still fail if the ruin does not have a
+#     suitable place to generate.
+#
+# chance_for_site is the chance, out of 100, that another ruin will attempt to
+#     spawn nearby if a ruin was already successfully spawned.  This bypasses
+#     the normal tries per chunk, so if this chance is set high you may end up
+#     with a lot of ruins even with a low tries per chunk and chance to spawn.
+#
+# specific_<biome name> is the chance, out of 100, that a ruin spawning in the
+#     specified biome will be chosen from the biome specific folder.  If not,
+#     it will choose a generic ruin from the root ruin folder.
+
+tries_per_chunk_normal=3
+chance_to_spawn_normal=6
+chance_for_site_normal=85
+
+tries_per_chunk_nether=3
+chance_to_spawn_nether=6
+chance_for_site_nether=85
+disableRuinSpawnCoordsLogging=true
+
+templateInstancesMinDistance=80
+anyRuinsMinDistance=15
+
+specific_beach=50
+specific_birch forest=50
+specific_birch forest hills=50
+specific_birch forest hills m=50
+specific_birch forest m=50
+specific_cold beach=50
+specific_cold taiga=50
+specific_cold taiga hills=50
+specific_cold taiga m=50
+specific_deep ocean=50
+specific_Desert=50
+specific_desert m=50
+specific_deserthills=50
+specific_extreme hills=50
+specific_extreme hills edge=50
+specific_extreme hills m=50
+specific_extreme hills+=50
+specific_extreme hills+ m=50
+specific_flower forest=50
+specific_Forest=50
+specific_foresthills=50
+specific_frozenocean=50
+specific_frozenriver=50
+specific_hell=50
+specific_ice mountains=50
+specific_ice plains=50
+specific_ice plains spikes=50
+specific_jungle=50
+specific_jungle m=50
+specific_junglehills=50
+specific_mega spruce taiga=50
+specific_mega taiga=50
+specific_mega taiga hills=50
+specific_mesa=50
+specific_mesa (bryce)=50
+specific_mesa plateau=50
+specific_mesa plateau f=50
+specific_mesa plateau f m=50
+specific_mesa plateau m=50
+specific_mushroomisland=50
+specific_mushroomislandshore=50
+specific_ocean=50
+specific_plains=50
+specific_river=50
+specific_roofed forest=50
+specific_roofed forest m=50
+specific_savanna=50
+specific_savanna m=50
+specific_savanna plateau=50
+specific_savanna plateau m=50
+specific_swampland=50
+specific_swampland m=50
+specific_taiga=50
+specific_taigahills=50
